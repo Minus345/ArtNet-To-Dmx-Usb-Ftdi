@@ -5,7 +5,7 @@ Build for https://www.amazon.de/DSD-TECH-RS485-Adapter-Lichtsteuerungskabel-Schw
 
 Tested on:
 * windows 10
-* ~~raspberry pi~~ ( in development should work)
+* ~~raspberry pi~~
 
 ### Requirements
 * java 19
